@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -20,4 +21,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

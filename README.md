@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

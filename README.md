@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

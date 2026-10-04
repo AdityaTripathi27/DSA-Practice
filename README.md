@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |

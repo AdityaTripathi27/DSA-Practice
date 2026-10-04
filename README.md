@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Union-Find
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

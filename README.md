@@ -118,16 +118,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |

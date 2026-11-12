@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0881-boats-to-save-people) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/3005-count-elements-with-maximum-frequency) |

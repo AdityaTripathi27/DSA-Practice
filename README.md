@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0371-sum-of-two-integers) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0141-linked-list-cycle) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0206-reverse-linked-list) |
 ## Data Stream

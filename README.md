@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0509-fibonacci-number) |
 ## Data Stream
 |  |
 | ------- |
@@ -289,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0881-boats-to-save-people) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

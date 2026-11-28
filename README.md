@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/AdityaTripathi27/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 ## Queue
 |  |
 | ------- |
